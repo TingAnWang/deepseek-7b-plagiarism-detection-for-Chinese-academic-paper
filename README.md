@@ -71,6 +71,3 @@ LLM Verdict: "This text is likely a paraphrased version of the retrieved documen
 - Implement **fine-tuning** of DeepSeek 7B for domain-specific plagiarism detection.
 - Add **batch processing** for large-scale academic plagiarism analysis.
 - Integrate **web UI** for interactive plagiarism checking.
-
-## **License**
-MIT License
